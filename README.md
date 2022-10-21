@@ -2,7 +2,9 @@
 
 ## Overview
 
+The following PySpark picture shows a dataframe of the reviews of Electronic equipment, as well as what kind of reviews are left and how many people thought the reviews were helpful.
 
+![image](https://github.com/CharlesBootCamp/Amazon_Vine_Analysis/blob/main/Resources/Spark.png)
 
 ## Results
 
